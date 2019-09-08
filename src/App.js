@@ -72,8 +72,8 @@ const App = () => {
       <div className="row">
         <div className="col-12">
           <h3>
-            Visualizing big data queries with AWS AppSync, Amazon Athena, and
-            AWS Amplify
+            Visualizing big data with AWS AppSync, Amazon Athena, and AWS Amplify
+            <small>Samples of population density across longitudes</small>
           </h3>
         </div>
         <div className="col-12">
